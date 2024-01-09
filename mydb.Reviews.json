@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb03857"
+  },
+  "review": "Mi perro adora Ricocan, es su comida favorita.",
+  "product": "Ricocan",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Lucía",
+  "product_stars": 5
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb03858"
+  },
+  "review": "Mimaskot es la marca que siempre elijo para mi gato.",
+  "product": "Mimaskot",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Carlos",
+  "product_stars": 4
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb03859"
+  },
+  "review": "Mi perro nunca se cansa de Dog Chow.",
+  "product": "Dog Chow",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Laura",
+  "product_stars": 4
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385a"
+  },
+  "review": "Pedigree ha sido la elección de mi familia por generaciones.",
+  "product": "Pedigree",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Manuel",
+  "product_stars": 5
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385b"
+  },
+  "review": "Canbo ofrece opciones saludables para mi gato.",
+  "product": "Canbo",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Isabel",
+  "product_stars": 4
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385c"
+  },
+  "review": "Brit es una marca confiable para perros de todas las edades.",
+  "product": "Brit",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Sofía",
+  "product_stars": 4
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385d"
+  },
+  "review": "Mi gato se siente genial con Gran Plus.",
+  "product": "Gran Plus",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Juan",
+  "product_stars": 5
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385e"
+  },
+  "review": "Propac es la elección perfecta para mi mascota con necesidades especiales.",
+  "product": "Propac",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "María",
+  "product_stars": 4
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb0385f"
+  },
+  "review": "Mi perro se emociona cada vez que le doy Ricocan.",
+  "product": "Ricocan",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Carlos",
+  "product_stars": 5
+},
+{
+  "_id": {
+    "$oid": "6547ecdc5b3feaa24cb03860"
+  },
+  "review": "Mimaskot ofrece una amplia variedad de sabores que mi gato adora.",
+  "product": "Mimaskot",
+  "review_date": {
+    "$date": "2023-11-05T19:28:28.469Z"
+  },
+  "username": "Lucía",
+  "product_stars": 5
+}]

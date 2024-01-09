@@ -1,0 +1,92 @@
+[
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b27" },
+    "stars": 4,
+    "product": "Dog Treats",
+    "comment": "Muy buen sabor, a mi perro le encantan",
+    "username": "Carlos",
+    "rating_date": { "$date": "2023-11-10T12:45:30.789Z" },
+    "updatedAt": { "$date": "2023-11-18T23:30:15.621Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b28" },
+    "stars": 5,
+    "product": "Flea Control",
+    "comment": "Efectivo para mantener a los parásitos a raya",
+    "username": "Ana",
+    "rating_date": { "$date": "2023-11-08T15:17:42.123Z" },
+    "updatedAt": { "$date": "2023-11-18T23:32:45.890Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b29" },
+    "stars": 4,
+    "product": "Pet Grooming Kit",
+    "comment": "Fácil de usar, deja el pelaje suave",
+    "username": "Daniel",
+    "rating_date": { "$date": "2023-11-12T09:55:18.567Z" },
+    "updatedAt": { "$date": "2023-11-18T23:35:10.112Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2a" },
+    "stars": 5,
+    "product": "Aquarium Starter Kit",
+    "comment": "Ideal para principiantes, todo en uno",
+    "username": "Laura",
+    "rating_date": { "$date": "2023-11-06T18:29:55.234Z" },
+    "updatedAt": { "$date": "2023-11-18T23:37:45.123Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2b" },
+    "stars": 3,
+    "product": "Bird Cage",
+    "comment": "Cumple su función, pero podría ser más grande",
+    "username": "Miguel",
+    "rating_date": { "$date": "2023-11-09T21:03:12.876Z" },
+    "updatedAt": { "$date": "2023-11-18T23:40:20.456Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2c" },
+    "stars": 4,
+    "product": "Hamster Bedding",
+    "comment": "Suave y absorbente, a mi hamster le encanta",
+    "username": "Isabel",
+    "rating_date": { "$date": "2023-11-07T14:12:38.345Z" },
+    "updatedAt": { "$date": "2023-11-18T23:42:55.789Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2d" },
+    "stars": 5,
+    "product": "Reptile Heat Lamp",
+    "comment": "Mantiene la temperatura perfecta para mi reptil",
+    "username": "Roberto",
+    "rating_date": { "$date": "2023-11-11T08:47:23.234Z" },
+    "updatedAt": { "$date": "2023-11-18T23:45:30.123Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2e" },
+    "stars": 3,
+    "product": "Pet Carrier",
+    "comment": "Buena calidad, pero un poco pequeño",
+    "username": "Luisa",
+    "rating_date": { "$date": "2023-11-13T17:36:09.567Z" },
+    "updatedAt": { "$date": "2023-11-18T23:48:05.345Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b2f" },
+    "stars": 4,
+    "product": "Cat Litter",
+    "comment": "Controla bien el olor, fácil de limpiar",
+    "username": "Pablo",
+    "rating_date": { "$date": "2023-11-14T20:18:34.789Z" },
+    "updatedAt": { "$date": "2023-11-18T23:50:40.678Z" }
+  },
+  {
+    "_id": { "$oid": "654734ff7275d191f33b7b30" },
+    "stars": 5,
+    "product": "Fish Food",
+    "comment": "Mis peces lo devoran, excelente calidad",
+    "username": "Maria",
+    "rating_date": { "$date": "2023-11-15T11:04:17.123Z" },
+    "updatedAt": { "$date": "2023-11-18T23:53:15.789Z" }
+  }
+]

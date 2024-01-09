@@ -1,0 +1,103 @@
+[
+    { 
+        "_id": { "$oid": "605b369de0ec3d1f87f03c8a" },
+        "publication_description": "¡Oferta de la semana! Lleva dos y paga uno en comida para conejo.", 
+        "username_publishing": "User123", 
+        "publication_date": {
+            "$date": "2023-11-06T09:20:00Z"
+          }, 
+        "has_attachment": false 
+    }, 
+    { 
+        "_id": { "$oid": "605b36a9e0ec3d1f87f03c8b" },
+        "publication_description": "¡Gran inauguración! 10% de descuento para los primeros 100 clientes que hagan una compra en nuestra nueva sede Independencia", 
+        "username_publishing": "Admin", 
+        "publication_date": {
+            "$date": "2023-11-06T15:45:00Z"
+          },
+        "has_attachment": true 
+    }, 
+    { 
+        "_id": { "$oid": "605b36b4e0ec3d1f87f03c8c" },
+        "publication_description": "Solo hoy! 3x2 en juguetes para gatos marca hartz" , 
+        "username_publishing": "Admin",  
+        "publication_date": {
+            "$date": "2023-11-07T08:00:00Z"
+          },
+        "has_attachment": true 
+    }, 
+        
+    { 
+        "_id": { "$oid": "605b36c0e0ec3d1f87f03c8d" },
+        "publication_description": "¡Volvieron los bosales hipoalergenicos! Ponle bozal a tu perro y evita las multas", 
+        "username_publishing": "Admin", 
+        "publication_date": {
+            "$date": "2023-11-07T12:30:00Z"
+          },
+        "has_attachment": false 
+    }, 
+    { 
+        "_id": { "$oid": "605b36cde0ec3d1f87f03c8e" },
+        "publication_description": "Llevate premios y descuentos en la ruleta! Tienes un tiro por cada 100 soles de compra en cualquiera de nuestras sedes", 
+        "username_publishing": "Admin", 
+        "publication_date": {
+            "$date": "2023-11-08T10:00:00Z"
+          },
+        "has_attachment": true 
+    },
+    {
+        "_id": { "$oid": "605b36dae0ec3d1f87f03c8f" },
+        "publication_description": "¡Oferta de la semana! Lleva tres y paga dos en accesorios para perros.", 
+        "username_publishing": "User1", 
+        "publication_date": {
+            "$date": "2023-11-06T09:20:00Z"
+          },
+        "has_attachment": false 
+    },
+    {
+        "_id": { "$oid": "605b36e7e0ec3d1f87f03c90" },
+        "publication_description": "¡Gran descuento en alimentos balanceados para gatos! Compra dos y lleva el tercero gratis.",
+        "username_publishing": "Usuario2",
+        "publication_date": {
+          "$date": "2023-11-07T15:45:00Z"
+        },
+        "has_attachment": true
+    },
+    {
+        "_id": { "$oid": "605b36f3e0ec3d1f87f03c91" },
+        "publication_description": "Nuevos juguetes para perros en stock. ¡Diversión garantizada para tu mascota!",
+        "username_publishing": "Usuario3",
+        "publication_date": {
+          "$date": "2023-11-08T11:10:00Z"
+        },
+        "has_attachment": true
+      },
+      {
+        "_id": { "$oid": "605b3700e0ec3d1f87f03c92" },
+        "publication_description": "Descubre nuestra sección de acuarios. Variedad de peces y accesorios para tu acuario.",
+        "username_publishing": "Usuario4",
+        "publication_date": {
+          "$date": "2023-11-09T14:30:00Z"
+        },
+        "has_attachment": true
+      },
+      {
+        "_id": { "$oid": "605b370de0ec3d1f87f03c93" },
+        "publication_description": "¡Promoción especial en camas para mascotas! Compra una y obtén un descuento del 20% en la segunda.",
+        "username_publishing": "Usuario5",
+        "publication_date": {
+          "$date": "2023-11-10T18:05:00Z"
+        },
+        "has_attachment": true
+      },
+      {
+        "_id": { "$oid": "605b370de0ec3d1f87f03c94" },
+        "publication_description": "Consulta con nuestro veterinario. Ofrecemos servicios de atención médica para tu mascota.",
+        "username_publishing": "Usuario6",
+        "publication_date": {
+          "$date": "2023-11-11T12:50:00Z"
+        },
+        "has_attachment": false
+      }
+      
+]
